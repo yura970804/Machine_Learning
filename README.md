@@ -1,6 +1,6 @@
 # Machine_Learning
 ## first project
-### project 내용
+### 내용
 Curse of Dimensionality 문제를 해결하기 위해, 차원 축소 방법인 PCA와 LDA를 사용하여 차원을 축소하고, 축소한 차원으로 생성된 벡터가 원래의 데이터를 잘 표현하고 있는지 확인한다.  
 
 ### 실험 방법
